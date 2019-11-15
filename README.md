@@ -1,5 +1,5 @@
-## FCNN-restore-light-sources
-using fully-convolutional neural network in tasks of restoring optical properties 
+## Recovery of optical parameters of a scene
+with fully-convolutional neural network
 
 <p align="center">
   <img width="460" height="240" src="https://user-images.githubusercontent.com/20153742/68948337-b7febc80-07c8-11ea-8998-15bd747954bb.PNG">
