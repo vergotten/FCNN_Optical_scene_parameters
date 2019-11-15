@@ -1,0 +1,4 @@
+The link has 3 folders: 
+  - original images
+  - proper masks (not colored)
+  - masks with applying a palette (colored heatmaps)
