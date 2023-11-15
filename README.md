@@ -20,7 +20,11 @@ Usage examples are structured as notebooks.
 
 ## Dataset
 
-The dataset used in this research was obtained using Lumicept[^1^][1], a hybrid light simulation software that enables the virtual measurement of photometric and radiometric quantities without making prototypes[^1^][1]. Lumicept is known for its fast and accurate light propagation calculation and fascinating rendering capability comparable to that of computer graphics software[^1^][1]. It provides a powerful tool for modeling light propagation, ensuring proper optical parameters and classification of parameters[^1^][1].
+The dataset used in this research was obtained using Lumicept, a hybrid light simulation software that enables the virtual measurement of photometric and radiometric quantities without making prototypes. Lumicept is known for its fast and accurate light propagation calculation and fascinating rendering capability comparable to that of computer graphics software. It provides a powerful tool for modeling light propagation, ensuring proper optical parameters and classification of parameters.
+
+![Screenshot](img/dataset.png)
+![Screenshot](img/heatmap.png)
+![Screenshot](img/masks.png)
 
 ## Achieved results:
 
