@@ -28,6 +28,8 @@ The dataset used in this research was obtained using Lumicept, a hybrid light si
 
 ## Achieved results:
 
+The FCNN was able to achieve significant results in the classification of illumination conditions. The training history showed a steady decrease in loss over the 200 epochs, reaching a final loss of 0.2. The "intersection over union" method used for testing showed a mean intersection of 0.7, indicating a high degree of accuracy in the classification of the first class (90 percent) and a lower degree of accuracy for the last class (30 percent). 
+
 ![Screenshot](img/result.png)
 ![Screenshot](img/history.png)
 
