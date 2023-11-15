@@ -18,6 +18,10 @@ The training of the FCNN was conducted on 221 train images and 29 validation ima
 
 Usage examples are structured as notebooks. 
 
+## Dataset
+
+The dataset used in this research was obtained using Lumicept[^1^][1], a hybrid light simulation software that enables the virtual measurement of photometric and radiometric quantities without making prototypes[^1^][1]. Lumicept is known for its fast and accurate light propagation calculation and fascinating rendering capability comparable to that of computer graphics software[^1^][1]. It provides a powerful tool for modeling light propagation, ensuring proper optical parameters and classification of parameters[^1^][1].
+
 ## Achieved results:
 
 <p align="left">
