@@ -16,7 +16,7 @@ The training of the FCNN was conducted on 221 train images and 29 validation ima
 
 ## Usage/Examples
 
-Usage examples are structured as notebooks. 
+Usage examples are structured as Jupyter-notebooks. 
 
 ## Dataset
 
@@ -28,9 +28,8 @@ The dataset used in this research was obtained using Lumicept, a hybrid light si
 
 ## Achieved results:
 
-<p align="left">
-  <img width="460" height="260" src="https://user-images.githubusercontent.com/20153742/68948336-b7febc80-07c8-11ea-820d-75ba92997d0a.PNG">
-</p>
+![Screenshot](img/result.png)
+![Screenshot](img/history.png)
 
 The full paper via link http://ceur-ws.org/Vol-2344/short1.pdf
 
